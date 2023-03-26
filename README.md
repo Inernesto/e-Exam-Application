@@ -3,7 +3,7 @@ is an online examination system that allows you to set exams as an admin to be a
 
 What To Learn
 * Suitable for Intermediate PHP Programmers.
-* Also with a mix of pure Javascript, you will learn interesting coding ideas that can help you as a growing developer.
+* You will learn some interesting coding ideas that can help you as a growing developer.
 
 How To Use
 * Clone or download the project.
